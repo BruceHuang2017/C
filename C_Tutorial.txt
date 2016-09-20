@@ -1,0 +1,9 @@
+C code for bash:
+
+# make c script excutable by creating a new file with the same name
+gcc -o *filename *filename.c
+
+# run the new file
+./ *filename
+
+
